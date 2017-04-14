@@ -1,0 +1,16 @@
+{
+  "name": "allofw-shape3d",
+  "version": "0.0.1",
+  "description": "Allofw Shape3D Library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "allofw": "0.0.8",
+    "allofw-utils": "0.0.8-a"
+  },
+  "author": "Donghao Ren <donghao.ren+npm@gmail.com> (https://donghaoren.org/)",
+  "license": "MIT"
+}
